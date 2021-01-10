@@ -8,11 +8,11 @@
 
 ### Skills
 
-<a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/js.png" alt="js" width="32"/></a>
-<a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/TS.png" alt="ts" width="32"/></a>
-<a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/Java.png" alt="java" width="32"/></a>
+<a href="https://javascript.info/" alt="javascript"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/js.png" alt="js" width="32"/></a>
+<a href="https://www.typescriptlang.org/" alt="typescript"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/TS.png" alt="ts" width="32"/></a>
+<a href="https://www.java.com/ko/" alt="java"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/Java.png" alt="java" width="32"/></a>
 <a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/React.png" alt="react" width="32"/></a>
-<a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/GraphQL.png" alt="GraphQL" width="32"/></a>
-<a href="https://reactjs.org/" alt="React"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/Spring-Boot.png" alt="springboot" width="32"/></a>
+<a href="https://graphql.org/" alt="graphql"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/GraphQL.png" alt="GraphQL" width="32"/></a>
+<a href="https://spring.io/projects/spring-boot" alt="springboot"><img src="https://github.com/fronttigger/fronttigger/blob/main/images/Spring-Boot.png" alt="springboot" width="32"/></a>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fronttigger)](https://github.com/anuraghazra/github-readme-stats) -->
